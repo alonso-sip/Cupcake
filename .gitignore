@@ -2,6 +2,7 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
+!Saved/Screenshots/Windows/*
 .vscode
 .vs
 *.VC.db
